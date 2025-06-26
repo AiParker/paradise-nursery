@@ -1,10 +1,10 @@
 const products = [
-  { id: 1, name: 'Lavender', price: 10, image: 'images/lavender.jpg' },
-  { id: 2, name: 'Mint', price: 8, image: 'images/mint.jpg' },
-  { id: 3, name: 'Aloe Vera', price: 12, image: 'images/aloe-vera.jpg' },
-  { id: 4, name: 'Neem', price: 11, image: 'images/neem.jpg' },
-  { id: 5, name: 'Fern', price: 9, image: 'images/fern.jpg' },
-  { id: 6, name: 'Snake Plant', price: 14, image: 'images/snake-plant.jpg' }
+  { id: 1, name: 'Lavender', price: 10, image: 'Images/lavender.jpg' },
+  { id: 2, name: 'Mint', price: 8, image: 'Images/mint.jpg' },
+  { id: 3, name: 'Aloe Vera', price: 12, image: 'Images/aloe-vera.jpg' },
+  { id: 4, name: 'Neem', price: 11, image: 'Images/neem.jpg' },
+  { id: 5, name: 'Fern', price: 9, image: 'Images/fern.jpg' },
+  { id: 6, name: 'Snake Plant', price: 14, image: 'Images/snake-plant.jpg' }
 ];
 
 document.addEventListener('DOMContentLoaded', () => {
