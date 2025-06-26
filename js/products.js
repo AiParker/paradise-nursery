@@ -1,10 +1,10 @@
 const products = [
-  { id: 1, name: 'Lavender', price: 10, image: 'paradise-nursery/Images/lavender.jpg' },
-  { id: 2, name: 'Mint', price: 8, image: 'paradise-nursery/Images/mint.jpg' },
-  { id: 3, name: 'Aloe Vera', price: 12, image: 'paradise-nursery/Images/aloe-vera.jpg' },
-  { id: 4, name: 'Neem', price: 11, image: 'paradise-nursery/Images/neem.jpg' },
-  { id: 5, name: 'Fern', price: 9, image: 'paradise-nursery/Images/fern.jpg' },
-  { id: 6, name: 'Snake Plant', price: 14, image: 'paradise-nursery/Images/snake-plant.jpg' }
+  { id: 1, name: 'Lavender', price: 10, image: '/Images/lavender.jpg' },
+  { id: 2, name: 'Mint', price: 8, image: '/Images/mint.jpg' },
+  { id: 3, name: 'Aloe Vera', price: 12, image: '/Images/aloe-vera.jpg' },
+  { id: 4, name: 'Neem', price: 11, image: '/Images/neem.jpg' },
+  { id: 5, name: 'Fern', price: 9, image: '/Images/fern.jpg' },
+  { id: 6, name: 'Snake Plant', price: 14, image: '/Images/snake-plant.jpg' }
 ];
 
 document.addEventListener('DOMContentLoaded', () => {
