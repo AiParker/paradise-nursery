@@ -4,8 +4,7 @@ Welcome to **Paradise Nursery**, an online plant shop where customers can browse
 
 ## 🚀 Live Demo
 
-**[Click here to view the site](https://your-username.github.io/paradise-nursery)**  
-_(Replace this link with your actual GitHub Pages URL)_
+(https://aiparker.github.io/paradise-nursery/)
 
 ---
 
